@@ -1,0 +1,261 @@
+{
+  "activeModules": [
+    {
+      "id": "resourcesplus",
+      "title": "5e-Sheet Resources Plus",
+      "version": ""
+    },
+    {
+      "id": "ActiveAuras",
+      "title": "Active-Auras",
+      "version": ""
+    },
+    {
+      "id": "advanced-macros",
+      "title": "Advanced Macros",
+      "version": ""
+    },
+    {
+      "id": "betterrolls5e",
+      "title": "Better Rolls for 5e",
+      "version": ""
+    },
+    {
+      "id": "lib-changelogs",
+      "title": "Changelogs & Conflicts",
+      "version": ""
+    },
+    {
+      "id": "chat-images",
+      "title": "Chat Images",
+      "version": ""
+    },
+    {
+      "id": "combatbooster",
+      "title": "Combat Booster",
+      "version": ""
+    },
+    {
+      "id": "combat-effects-tracker",
+      "title": "Combat Effects Tracker",
+      "version": ""
+    },
+    {
+      "id": "combat-enhancements",
+      "title": "Combat Enhancements",
+      "version": ""
+    },
+    {
+      "id": "combat-numbers",
+      "title": "Combat Numbers",
+      "version": ""
+    },
+    {
+      "id": "combat-utility-belt",
+      "title": "Combat Utility Belt",
+      "version": ""
+    },
+    {
+      "id": "damage-log",
+      "title": "Damage Log",
+      "version": ""
+    },
+    {
+      "id": "dfreds-droppables",
+      "title": "DFreds Droppables",
+      "version": ""
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
+      "version": ""
+    },
+    {
+      "id": "dice-calculator",
+      "title": "Dice Tray",
+      "version": ""
+    },
+    {
+      "id": "Dynamic-Effects-SRD",
+      "title": "Dynamic Active Effects SRD",
+      "version": ""
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects",
+      "version": ""
+    },
+    {
+      "id": "easy-target",
+      "title": "Easy Target",
+      "version": ""
+    },
+    {
+      "id": "foundry_community_macros",
+      "title": "Foundry Community Macros",
+      "version": ""
+    },
+    {
+      "id": "foundry_community_tables",
+      "title": "Foundry Community Tables",
+      "version": ""
+    },
+    {
+      "id": "initiative-double-click",
+      "title": "Initiative Double Click",
+      "version": ""
+    },
+    {
+      "id": "lessfog",
+      "title": "Less Fog",
+      "version": ""
+    },
+    {
+      "id": "lmrtfy",
+      "title": "Let Me Roll That For You!",
+      "version": ""
+    },
+    {
+      "id": "lets-trade-5e",
+      "title": "Let's Trade 5e",
+      "version": ""
+    },
+    {
+      "id": "colorsettings",
+      "title": "lib - Color Settings",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": "0"
+    },
+    {
+      "id": "maestro",
+      "title": "Maestro",
+      "version": ""
+    },
+    {
+      "id": "midi-qol",
+      "title": "Midi QOL",
+      "version": ""
+    },
+    {
+      "id": "Next-Up",
+      "title": "Next Up",
+      "version": ""
+    },
+    {
+      "id": "ping-logger",
+      "title": "Ping Logger",
+      "version": ""
+    },
+    {
+      "id": "pings",
+      "title": "Pings",
+      "version": ""
+    },
+    {
+      "id": "plutonium",
+      "title": "SRD: Enhanced",
+      "version": ""
+    },
+    {
+      "id": "popout",
+      "title": "PopOut!",
+      "version": ""
+    },
+    {
+      "id": "select-tool-everywhere",
+      "title": "Select tool everywhere",
+      "version": ""
+    },
+    {
+      "id": "settings-extender",
+      "title": "Settings Extender",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "split-journal",
+      "title": "Split Journal",
+      "version": ""
+    },
+    {
+      "id": "forge-vtt-optional",
+      "title": "The Forge: More Awesomeness",
+      "version": ""
+    },
+    {
+      "id": "furnace",
+      "title": "The Furnace",
+      "version": ""
+    },
+    {
+      "id": "tidy5e-sheet",
+      "title": "Tidy5e Sheet",
+      "version": ""
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud",
+      "title": "Token Action HUD",
+      "version": ""
+    },
+    {
+      "id": "token-attacher",
+      "title": "Token Attacher",
+      "version": ""
+    },
+    {
+      "id": "token-hud-wildcard",
+      "title": "Token HUD Wildcard",
+      "version": ""
+    },
+    {
+      "id": "token-info-icons",
+      "title": "Token Info Icons",
+      "version": ""
+    },
+    {
+      "id": "tokenmagic",
+      "title": "Token Magic FX",
+      "version": ""
+    },
+    {
+      "id": "turnAlert",
+      "title": "Turn Alert",
+      "version": ""
+    }
+  ],
+  "inactiveModules": [
+    {
+      "id": "combat-carousel",
+      "title": "Combat Carousel",
+      "version": ""
+    },
+    {
+      "id": "music-assist",
+      "title": "MusicAssist",
+      "version": ""
+    },
+    {
+      "id": "polyglot",
+      "title": "Polyglot",
+      "version": ""
+    },
+    {
+      "id": "turnmarker",
+      "title": "Turn Marker",
+      "version": ""
+    }
+  ]
+}
